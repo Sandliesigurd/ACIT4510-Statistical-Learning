@@ -1,0 +1,29 @@
+
+Final assignment / Exam
+Statistical Learning, Master in ACIT, 2024-2025
+(Shailendra Bhandari, Pedro Lencastre, Pedro G. Lind)
+Department of Computer Science, OsloMet – Oslo Metropolitan University, Norway
+October 28, 2024
+What is this assignment about and why is it important? (audience, purpose and context)
+As a future computer scientist and IT expert, you will need to show and present reports to your peers. You may have, for
+example, to present the analysis and/or modelling of a specific data set to address a specific problem.
+This final assignment is about writing such kind of reports in the field of Statistical Learning. You will be evaluated based
+on the knowledge you show to have about what we learned during the classes.
+What should you do?
+1 Choose a data set, publicly available, of your preference and define one problem which you can solve with that data set.
+2 Write a report where you (i) formulate your problem, (ii) describe the data, (iii) choose AI methods to analyze it to-
+wards solving the problem you formulated (justify your choices!) and (iv) discuss the outcome, including your own
+perspective about the results.
+How should it look like?
+This is up to you, but remember what we presented in the class:
+• It should have an “Introduction”: what is the problem you want to solve? What is the question you want to answer?
+• It should have a part about your “Methods and Data”: why this methods? why this data?
+• It should have a part describing your “Results”: how to better plot the output of your analysis?
+• It should have a part with a “Discussion” of your results: what do we learn from the results (new knowledge)?
+• It should have a “Conclusion”: take-home messages?
+All in all, you will be evaluated in each one of these points, always from the perspective of well you can justify and
+explain your choices in the different steps of data analysis and methods as well as your interpretation of the results and your
+conclusions. Always remember the different content we presented and discussed in the classes. Layout and format should
+follow the guidelines in the description of this course. You can consult the slides of what was presented in the class (file
+AimCourse-PreparationForFinalAssign.pdf in Canvas) and the book “Introduction to Statistical Learning”.
+1
