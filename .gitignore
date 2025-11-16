@@ -22,3 +22,7 @@ games.csv
 # Build/output
 Report/Report.html
 
+
+# Coursework context and report (ignored)
+Assignment context/
+Report/
