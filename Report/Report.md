@@ -358,14 +358,25 @@ This work delivers a leakage-aware, reproducible benchmark for predicting chess 
 
 ---
 
-## References
+## Github Repository
 
+https://github.com/Sandliesigurd/ACIT4510-Statistical-Learning.git
+
+
+## References
 
 
 1. Mitchell, J. (2017). Chess game dataset (Lichess) [Data set]. Kaggle. https://www.kaggle.com/datasets/datasnaek/chess
 2. Fan, Z., Kuang, Y., & Lin, X. (2013). Chess game result prediction system [CS 229 Machine Learning project report]. Stanford University.
-3. Scikit-learn documentation: [If you cite specific methods]
-4. Textbooks (e.g., "Introduction to Statistical Learning" mentioned in assignment)
+3. James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: with applications in Python. Springer. https://doi.org/10.1007/978-3-031-38747-0
+4. Harris, C. R., Millman, K. J., van der Walt, S. J., et al. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
+5. The pandas development team. (2020). pandas-dev/pandas: Pandas (Version 1.x) [Software]. Zenodo. https://doi.org/10.5281/zenodo.3509134
+6. Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
+7. Lemaître, G., Nogueira, F., & Aridas, C. K. (2017). Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning. Journal of Machine Learning Research, 18(17), 1–5.
+8. Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD ’16), 785–794. https://doi.org/10.1145/2939672.2939785
+9. Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
+10. Waskom, M. L. (2021). seaborn: statistical data visualization. Journal of Open Source Software, 6(60), 3021. https://doi.org/10.21105/joss.03021
+11. Virtanen, P., Gommers, R., Oliphant, T. E., et al. (2020). SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature Methods, 17, 261–272. https://doi.org/10.1038/s41592-019-0686-2
 
 ---
 
