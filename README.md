@@ -1,5 +1,7 @@
 # ACIT4510 Statistical Learning – Chess Prediction
 
-This repo contains a single, self‑contained project for the course final: a Jupyter notebook (`analysis.ipynb`) that predicts (i) the winner of a chess game (white/black/draw) and (ii) game length (turns) using only pre/early‑game information (ratings, time control, opening category/ply). The work is leakage‑safe and cross‑validated (pipelines with scaling and SMOTE inside CV for classification), framed “conditional on known opening.” On the held‑out test set, the Random Forest classifier is best with balanced accuracy ≈ 0.472 (accuracy ≈ 0.600; weighted F1 ≈ 0.603), and the Random Forest regressor achieves RMSE ≈ 32.43 turns (MAE ≈ 25.10; R² ≈ 0.0605). To run: `pip install -r requirements.txt`, open `analysis.ipynb`, and “Run All”; figures auto‑save to `Report/figs`. A concise write‑up is provided in `Report/Report.pdf` (source `Report/Report.md`). Dataset: Lichess games (Kaggle).
+This repo contains a single, self‑contained project: a Jupyter notebook (`analysis.ipynb`) that predicts the winner of a chess game (white/black/draw) and game length (turns) using only pre/early‑game information (ratings, time control, opening category/ply). 
+
+ To run: `pip install -r requirements.txt`, open `analysis.ipynb`, and “Run All”; figures auto‑save to `Report/figs`.
 
 
