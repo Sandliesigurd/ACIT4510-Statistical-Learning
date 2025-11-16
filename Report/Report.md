@@ -6,8 +6,7 @@ pdf-engine: xelatex
 
 # Predicting Chess Game Outcomes: A Statistical Learning Approach
 
-**Final Assignment - Statistical Learning**  
-**Master in ACIT, 2024-2025**  
+**Final Assignment - ACIT4510 - Statistical Learning**   
 **OsloMet – Oslo Metropolitan University**
 
 **Student:** Sigurd Sandlie  
